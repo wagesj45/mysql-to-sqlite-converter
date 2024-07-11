@@ -70,7 +70,7 @@ python export_mysql_to_sqlite.py
 
 - Connection Issues: Ensure that the MySQL server is running and accessible, and that the credentials and host information are correct.
 
--Data Type Compatibility: Some complex MySQL data types may not convert perfectly to SQLite. The script uses the closest compatible types, but you may need to handle specific cases manually if needed.
+- Data Type Compatibility: Some complex MySQL data types may not convert perfectly to SQLite. The script uses the closest compatible types, but you may need to handle specific cases manually if needed.
 
 ## License
 
